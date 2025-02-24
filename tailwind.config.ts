@@ -58,7 +58,7 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       height: {
-        vh85: "85vh",
+        svh90: "90svh",
       },
     },
   },
