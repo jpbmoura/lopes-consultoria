@@ -25,7 +25,7 @@ const plans = [
       "Suporte contínuo para ajustes e motivação",
     ],
     cutValue: 599.9,
-    checkoutLink: "https://chk.eduzz.com/7WXQPK449A",
+    checkoutLink: "https://chk.eduzz.com/39ZQK2XB9E",
   },
   {
     name: "Transformação 365",
@@ -38,7 +38,7 @@ const plans = [
       "Suporte VIP para máximo desempenho",
     ],
     cutValue: 1199.9,
-    checkoutLink: "https://chk.eduzz.com/7WXQPK449A",
+    checkoutLink: "https://chk.eduzz.com/6W485A2Y0Z",
   },
 ];
 
