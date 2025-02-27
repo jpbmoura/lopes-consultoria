@@ -10,7 +10,7 @@ const plans = [
     features: [
       "Treinos otimizados para seu objetivo",
       "Orientação nutricional personalizada",
-      "Suporte via chat para ajustes e dúvidas",
+      "Suporte via chat para ajustes e dúvidas por 3 meses",
     ],
     checkoutLink: "https://chk.eduzz.com/7WXQPK449A",
   },
@@ -22,7 +22,7 @@ const plans = [
     features: [
       "Plano de treino e ajustes periódicos",
       "Estratégias avançadas de alimentação",
-      "Suporte contínuo para ajustes e motivação",
+      "Suporte contínuo para ajustes e motivação por 6 meses",
     ],
     cutValue: 599.9,
     checkoutLink: "https://chk.eduzz.com/39ZQK2XB9E",
